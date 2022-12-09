@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">UrbanGoogleFitApi</string>
+    <string name="action_settings">Settings</string>
+    <string name="intro_text">Hi! Let\'s see how many steps you\'ve done today</string>
+    <string name="water_intro_text">Hi! Let\'s see how many water intake you\'ve done today</string>
+    <string name="permission_rationale">Location data is used as part of the Google Fit API</string>
+    <string name="permission_denied_explanation">Permission was denied, but is needed for core functionality.</string>
+    <string name="settings">Settings</string>
+    <string name="ok">Ok</string>
+    <string name="action_revoke">Revoke permissions</string>
+    <string name="intro_text1">Behold, a data dump from the Fitness API! Check the menu for more actions!</string>
+    <string name="action_update_session">Update step count data</string>
+    <string name="action_delete_session">Delete step count data</string>
+
+    <string name="action_update_session_sleep">Update sleep count data</string>
+    <string name="action_delete_session_sleep">Delete sleep count data</string>
+
+</resources>

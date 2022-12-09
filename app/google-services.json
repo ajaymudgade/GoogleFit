@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "383569319567",
+    "project_id": "urbanfitapi",
+    "storage_bucket": "urbanfitapi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383569319567:android:f5809179dfadc423d8c2fa",
+        "android_client_info": {
+          "package_name": "urbanfit.abc.googlefit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383569319567-0qvm4h4vbrtbttoro16el5gu7qm03sg2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "urbanfit.abc.googlefit",
+            "certificate_hash": "4f6e284dde72584f4c8b2c852422f140640d7acd"
+          }
+        },
+        {
+          "client_id": "383569319567-0amnl97mmb7sqoqenikmbamp4m6r2mka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRtPktV_-IH03FcPdWcHxAZ9bQXS-DFLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383569319567-0amnl97mmb7sqoqenikmbamp4m6r2mka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

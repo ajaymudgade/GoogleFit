@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".StepsActivity" >
+    <item
+        android:id="@+id/sleep_action_revoke"
+        android:orderInCategory="100"
+        android:title="@string/action_revoke"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/sleep_action_read_data"
+        android:title="Read sleep data"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/sleep_action_read_historic_data"
+        android:title="Read historic sleep data"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+</menu>
